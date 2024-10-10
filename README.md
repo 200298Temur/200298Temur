@@ -1,4 +1,4 @@
-![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
+![Cosmos](https://raw.githubusercontent.com/temur/your-repo/main/cosmos-image.png)
 
 ## Info
 
