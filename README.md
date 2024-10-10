@@ -1,4 +1,4 @@
-![Cosmos](https://www.pexels.com/photo/silhouette-photography-of-person-under-starry-sky-1906658/)
+![Cosmos](https://t3.ftcdn.net/jpg/08/45/98/62/240_F_845986239_hPf5PG1ijx2O60iXOkiTkaeKyMf1Isvb.jpg)
 
 ## Info
 
