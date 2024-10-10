@@ -1,4 +1,4 @@
-![Cosmos](https://raw.githubusercontent.com/temur/your-repo/main/cosmos-image.png)
+![Cosmos](https://www.pexels.com/photo/silhouette-photography-of-person-under-starry-sky-1906658/)
 
 ## Info
 
