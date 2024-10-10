@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi there, I'm Te,ur a software engineer.
+Hi there, I'm Temur a software engineer.
 
 - :school: I'm currently learning : Laravel, Djnago
 
