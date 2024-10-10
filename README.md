@@ -16,9 +16,6 @@ Hi there, I'm Te,ur a software engineer.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/temur-usmonov-08b00b26a/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NAVI_T1mur_CS_GO)
 
-[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=char_al_&layout=wide)](https://twitter.com/Char_Al_)
-[![TwitterMobidic](https://github-readme-twitter.gazf.vercel.app/api?id=MoBiDiC_BioInfo&layout=wide)](https://twitter.com/MoBiDiC_BioInfo)
-
 </details>
 
 
